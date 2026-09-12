@@ -1,0 +1,12 @@
+/*esto es un selecto que afecta en todos los elementos de mi pagina*/
+*{
+    margin:0px;
+    padding: 0px;
+}
+/*generar estilos por medio de una clase*/
+.imagenCl
+{
+    border:7px solid blue;
+    padding: 20px;
+    margin: 50px;
+}
